@@ -8,5 +8,5 @@ Eclipse Framework
 
 Working of the Project:
 1.The three classes Banana, Monkey and Wonderland have specific attributes and methods related to operating the game.
-2. "MBGame" is the main class through which the game can get started.
+2. "MBgame" is the main class through which the game can get started.
 
